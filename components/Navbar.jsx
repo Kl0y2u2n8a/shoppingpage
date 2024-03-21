@@ -27,7 +27,7 @@ const Navbar = () => {
                 
                 <div>
                     <ul className='hidden md:flex gap-4 px-2'>
-                        <Link href="/">
+                        <Link href="/src/pages/About.js">
                             <li className='hover:font-bold hover:text-blue-400 hover:border-b-2 text-xl uppercase'>About us</li>
                         </Link>
 
